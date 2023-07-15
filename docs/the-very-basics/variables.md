@@ -64,6 +64,11 @@ An `int` (short for integer) is basically a number with no decimals.\
 
 This function takes one `str` (short for String) and prints it, then allows the user to type in something. After the user hits Enter, the function returns what the user typed it.
 
+```python
+text = input("What would you like me to say? > ")
+print(text)
+```
+
 </details>
 
 Oh, one more thing.
@@ -71,9 +76,25 @@ Oh, one more thing.
 {% hint style="info" %}
 You can do math pretty easily:
 
-{% code fullWidth="true" %}
-```python
-x = 4 + 1 # x is equal to 5
-```
-{% endcode %}
+`x = 4 + 2 # x will be 6`
 {% endhint %}
+
+Okay - that's all you need to know to make some pretty cool stuff.
+
+Let's try making a greeting program. You can copy this code into your compiler ([here's the link](https://www.online-python.com/fQBxnG5oVK) if you forgot it)
+
+```python
+name = input("What is your name?")
+```
+
+Here we're getting the user's name and storing it in a variable called `name`.
+
+```python
+greeting = "Hello, " + name # Wait, this looks a lil sus...
+```
+
+Wait, did we just add a string to a string? Yes, we did! This is called _concatenation_, and it's when we stick two strings together.
+
+```python
+print(greeting)
+```
