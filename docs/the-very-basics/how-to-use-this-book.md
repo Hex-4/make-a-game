@@ -26,6 +26,10 @@ Most tutorials have you ping-ponging between the software and the application - 
 This is an important reminder - it might mean to save your work, or double-check your code.
 {% endhint %}
 
+{% hint style="warning" %}
+Puzzle time! Along the way I'll give you puzzles to test your knowledge.
+{% endhint %}
+
 <details>
 
 <summary>Hint</summary>
