@@ -22,14 +22,6 @@ Most tutorials have you ping-ponging between the software and the application - 
 
 </details>
 
-{% hint style="success" %}
-This is an important reminder - it might mean to save your work, or double-check your code.
-{% endhint %}
-
-{% hint style="warning" %}
-Puzzle time! Along the way I'll give you puzzles to test your knowledge.
-{% endhint %}
-
 <details>
 
 <summary>Hint</summary>
@@ -37,5 +29,21 @@ Puzzle time! Along the way I'll give you puzzles to test your knowledge.
 You'll find these in the Practice segment - I highly recomend trying to do the projects by yourself, but if you need some help, open these!
 
 </details>
+
+<details>
+
+<summary>New (something)</summary>
+
+This is a lil explanation of something new that you just encountered.
+
+</details>
+
+{% hint style="success" %}
+This is an important reminder - it might mean to save your work, or double-check your code.
+{% endhint %}
+
+{% hint style="warning" %}
+Puzzle time! Along the way I'll give you puzzles to test your knowledge.
+{% endhint %}
 
 Alright - let's get started!
