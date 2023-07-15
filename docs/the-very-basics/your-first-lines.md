@@ -16,6 +16,16 @@ And hit run! It prints `Hello, world!` to the terminal. Let's break this down.
 
 <details>
 
+<summary>Do the above</summary>
+
+Type `print("Hello, world")` into the compiler and hit run.
+
+</details>
+
+Here's some info about what you just did:
+
+<details>
+
 <summary>New function: <code>print(String)</code></summary>
 
 This is a built-in Python function. It takes one argument (a `String`) and prints it to the terminal.
