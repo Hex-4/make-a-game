@@ -12,7 +12,7 @@ Then type your first line of code:
 print("Hello, world!")
 ```
 
-And hit run! It prints `Hello, world!` to the terminal. Let's break this down.
+And hit run! It prints `Hello, world!` to the terminal.
 
 <details>
 
@@ -57,3 +57,21 @@ A string is, well, a string of characters. They are surrounded by quotes like th
 </details>
 
 Now, try to change the text in the `print()` statement. Maybe add another one - tell a short story!
+
+{% hint style="warning" %}
+Puzzle time! Can you fix this code? [Open Puzzle](https://www.online-python.com/ybDFgQXPLt) &#x20;
+{% endhint %}
+
+<details>
+
+<summary>New concept: Comments</summary>
+
+Comments are text that is skipped over by the compiler, so they are useful for notes and explaining what code does. They can be used like this:
+
+```python
+# This is a program
+print("hello") # This will print "hello" to output.
+print("goodbye")
+```
+
+</details>
